@@ -25,7 +25,7 @@ __!ВАЖНО:__ На WINDOWS устанавливать в корневую п�
 __День №1__ Пишем первый скрипт, знакомимся с переменными, массивами и конструкцией if
 
 - [Семинар 1](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_01/introduction_to_R.html), [задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_01/exercises.html)
-- [Семинар 2](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_02/if.html)
+- [Семинар 2](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_02/if.html), [задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_02/exercises.html)
 
 
 ## Домашние задания и контрольные
