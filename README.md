@@ -1,6 +1,6 @@
 # Анализ данных в R, коллекция осень-зима 2021
 
-- [Youtube канал]() с записями семинаров
+- [Youtube канал](https://www.youtube.com/playlist?list=PLEwK9wdS5g0qxZ7JCoh3zJHLaVfkTa8BR) с записями семинаров
 - [Таблица]() с оценками
 - Канал с основными объявлениями: [![TG1](https://img.shields.io/badge/Telegram-chat-blue)](https://t.me/joinchat/407iOiW_Uak1MGEy)
 - Чат первой группы: [![TG1](https://img.shields.io/badge/Telegram-chat-blue)]()
@@ -24,9 +24,12 @@ __!ВАЖНО:__ На WINDOWS устанавливать в корневую п�
 
 __День №1__ Пишем первый скрипт, знакомимся с переменными, массивами и конструкцией if
 
-- [Семинар 1](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_01/introduction_to_R.html), [задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_01/exercises.html)
-- [Семинар 2](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_02/if.html), [задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_02/exercises.html)
+- [Семинар 1](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_01/introduction_to_R.html), [задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_01/exercises.html), [Решения заданий](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_01/exercises_solution.html)
+- [Семинар 2](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_02/if.html), [задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_02/exercises.html), [Решения заданий](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_02/exercises_solution.html)
 
+__День №2__ Нарешиваем задачи с предыдущего дня, знакомимся с циклами и матрицами
+
+- [Семинар 3-4](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_03/for_while_matrix.html), [задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_03/exercises.html)
 
 ## Домашние задания и контрольные
 
