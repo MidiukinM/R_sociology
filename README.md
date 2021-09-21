@@ -1,6 +1,6 @@
 # Анализ данных в R, коллекция осень-зима 2021
 
-- [Youtube канал](https://www.youtube.com/playlist?list=PLEwK9wdS5g0qxZ7JCoh3zJHLaVfkTa8BR) с записями семинаров
+- [Youtube канал](https://youtube.com/playlist?list=PLEwK9wdS5g0r5FyWpSvUcOb7CeNQLuYVS) с записями семинаров
 - [Таблица]() с оценками
 - Канал с основными объявлениями: [![TG1](https://img.shields.io/badge/Telegram-chat-blue)](https://t.me/joinchat/407iOiW_Uak1MGEy)
 - Чат первой группы: [![TG1](https://img.shields.io/badge/Telegram-chat-blue)]()
