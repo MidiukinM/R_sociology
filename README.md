@@ -29,7 +29,11 @@ __День №1__ Пишем первый скрипт, знакомимся с 
 
 __День №2__ Нарешиваем задачи с предыдущего дня, знакомимся с циклами и матрицами
 
-- [Семинар 3-4](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_03/for_while_matrix.html), [задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_03/exercises.html)
+- [Семинар 3-4](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_03/for_while_matrix.html), [задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_03/exercises.html), [Решения заданий](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_03/exercises_solution.html)
+
+__День №3__ Нарешиваем задачи с предыдущего дня, пишем свои функции
+
+- [Семинар 5-6](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_04/function.html), [задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_04/exercises.html)
 
 ## Домашние задания и контрольные
 
