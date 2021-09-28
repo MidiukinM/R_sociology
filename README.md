@@ -2,7 +2,6 @@
 
 - [Youtube канал](https://youtube.com/playlist?list=PLEwK9wdS5g0r5FyWpSvUcOb7CeNQLuYVS) с записями семинаров
 - [Таблица]() с оценками
-- Канал с основными объявлениями: [![TG1](https://img.shields.io/badge/Telegram-chat-blue)](https://t.me/joinchat/407iOiW_Uak1MGEy)
 - Чат первой группы: [![TG1](https://img.shields.io/badge/Telegram-chat-blue)]()
 - Чат второй группы: [![TG1](https://img.shields.io/badge/Telegram-chat-blue)]()
 - Если вы хотите скачать из репозитория конкретную папку, просто вставьте ссылку на неё [в сервис для скачки.](https://minhaskamal.github.io/DownGit/#/home)
@@ -22,18 +21,26 @@ __!ВАЖНО:__ На WINDOWS устанавливать в корневую п�
 
 ## План курса
 
+### Раздел №1: Программирование 
+
 __День №1__ Пишем первый скрипт, знакомимся с переменными, массивами и конструкцией if
 
-- [Семинар 1](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_01/introduction_to_R.html), [задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_01/exercises.html), [Решения заданий](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_01/exercises_solution.html)
-- [Семинар 2](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_02/if.html), [задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_02/exercises.html), [Решения заданий](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_02/exercises_solution.html)
+- [Семинар 1](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_01/introduction_to_R.html), [Задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_01/exercises.html), [Решения заданий](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_01/exercises_solution.html)
+- [Семинар 2](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_02/if.html), [Задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_02/exercises.html), [Решения заданий](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_02/exercises_solution.html)
 
 __День №2__ Нарешиваем задачи с предыдущего дня, знакомимся с циклами и матрицами
 
-- [Семинар 3-4](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_03/for_while_matrix.html), [задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_03/exercises.html), [Решения заданий](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_03/exercises_solution.html)
+- [Семинар 3-4](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_03/for_while_matrix.html), [Задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_03/exercises.html), [Решения заданий](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_03/exercises_solution.html)
 
-__День №3__ Нарешиваем задачи с предыдущего дня, пишем свои функции
+__День №3-4__ Нарешиваем задачи с предыдущего дня, пишем свои функции, готовимся к 1ой домашке
 
-- [Семинар 5-6](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_04/function.html), [задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/sem_04/exercises.html)
+- [Семинар 5-6, 7-8](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_04/function.html), [Задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_04/exercises.html), [Решения заданий](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_04/exercises_solution.html)
+
+### Раздел №2: Теория вероятностей
+
+__День №5__ Разбираемся, зачем мы учили тервер и применяем его на практике. Разбираемся с генерацией случайных вел-н
+
+- [Семинар 9-10](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_05/generations.html), [Задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_05/exercises.html)
 
 ## Домашние задания и контрольные
 
@@ -60,3 +67,7 @@ Round(0.15 ДЗ1 + 0.15 ДЗ2 + 0.15 ДЗ3 + 0.25 КР + 0.3 Экз)
 
 * [Зарманбетов Ахмед](https://github.com/ahmedushka7)
 * [Мидюкин Макс](https://github.com/MidiukinM)
+
+## Благодарности
+
+* [Филиппу Ульянкину](https://github.com/FUlyankin) за помощь с материалами по теории вероятностей и мат. статистики
