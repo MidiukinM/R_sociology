@@ -38,8 +38,9 @@ __День №3-4__ Нарешиваем задачи с предыдущего 
 
 ### Раздел №2: Теория вероятностей
 
-__День №5__ Разбираемся, зачем мы учили тервер и применяем его на практике. Разбираемся с генерацией случайных вел-н
+__День №5__ Разбираемся, зачем мы учили тервер. Генерируем случайные величины в R
 
+- Огромная [презентация](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_05/preza.pdf) с материалами по терверу 
 - [Семинар 9-10](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_05/generations.html), [Задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_05/exercises.html)
 
 ## Домашние задания и контрольные
