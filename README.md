@@ -2,7 +2,7 @@
 
 - [Youtube канал](https://youtube.com/playlist?list=PLEwK9wdS5g0r5FyWpSvUcOb7CeNQLuYVS) с записями семинаров
 - [Таблица]() с оценками
-- Чат первой группы: [![TG1](https://img.shields.io/badge/Telegram-chat-blue)]()
+- Чат группы 182: [![TG1](https://img.shields.io/badge/Telegram-chat-blue)](https://t.me/joinchat/H_JLuv62YXE5MTZi)
 - Чат второй группы: [![TG1](https://img.shields.io/badge/Telegram-chat-blue)]()
 - Если вы хотите скачать из репозитория конкретную папку, просто вставьте ссылку на неё [в сервис для скачки.](https://minhaskamal.github.io/DownGit/#/home)
 - Материалы прошлых лет: [страница курса](https://ahmedushka7.github.io/R/), [репозиторий](https://github.com/ahmedushka7/R)
