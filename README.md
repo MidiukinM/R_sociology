@@ -34,14 +34,19 @@ __День №2__ Нарешиваем задачи с предыдущего д
 
 __День №3-4__ Нарешиваем задачи с предыдущего дня, пишем свои функции, готовимся к 1ой домашке
 
-- [Семинар 5-6, 7-8](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_04/function.html), [Задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_04/exercises.html), [Решения заданий](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_04/exercises_solution.html)
+- [Семинар 5-8](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_04/function.html), [Задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_04/exercises.html), [Решения заданий](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_04/exercises_solution.html)
 
 ### Раздел №2: Теория вероятностей
 
-__День №5__ Разбираемся, зачем мы учили тервер. Генерируем случайные величины в R
+__День №5-6__ Разбираемся, зачем мы учили тервер. Генерируем случайные величины в R
 
 - Огромная [презентация](https://github.com/MidiukinM/R_sociology/blob/main/day_05/preza.pdf) с материалами по терверу 
-- [Семинар 9-10](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_05/generations.html), [Задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_05/exercises.html)
+- [Семинар 9-12](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_05/generations.html), [Задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_05/exercises.html)
+
+__День №7__ Разбираемся в двух самых важных теоремах тервера: ЗБЧ и ЦПТ. Проверяем парадокс дней рождений на практике по данным из vk
+
+- Не такая огромная [Презентация](https://github.com/MidiukinM/R_sociology/blob/main/day_07/ЗБЧ_ЦПТ.pdf) с материалами по терверу 
+- [Парадокс дней рождений на практике](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_07/birthdays.html)
 
 ## Домашние задания и контрольные
 
