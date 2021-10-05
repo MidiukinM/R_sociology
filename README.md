@@ -2,7 +2,7 @@
 
 - [Youtube канал](https://youtube.com/playlist?list=PLEwK9wdS5g0r5FyWpSvUcOb7CeNQLuYVS) с записями семинаров
 - [Таблица]() с оценками
-- Чат первой группы: [![TG1](https://img.shields.io/badge/Telegram-chat-blue)]()
+- Чат группы 182: [![TG1](https://img.shields.io/badge/Telegram-chat-blue)](https://t.me/joinchat/H_JLuv62YXE5MTZi)
 - Чат второй группы: [![TG1](https://img.shields.io/badge/Telegram-chat-blue)]()
 - Если вы хотите скачать из репозитория конкретную папку, просто вставьте ссылку на неё [в сервис для скачки.](https://minhaskamal.github.io/DownGit/#/home)
 - Материалы прошлых лет: [страница курса](https://ahmedushka7.github.io/R/), [репозиторий](https://github.com/ahmedushka7/R)
@@ -40,14 +40,14 @@ __День №3-4__ Нарешиваем задачи с предыдущего 
 
 __День №5__ Разбираемся, зачем мы учили тервер. Генерируем случайные величины в R
 
-- Огромная [презентация](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_05/preza.pdf) с материалами по терверу 
+- Огромная [презентация](https://github.com/MidiukinM/R_sociology/blob/main/day_05/preza.pdf) с материалами по терверу 
 - [Семинар 9-10](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_05/generations.html), [Задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_05/exercises.html)
 
 ## Домашние задания и контрольные
 
 __Домашки:__
 
-- Домашнее задание 1
+- [Домашнее задание 1](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/exercises/hw1/hw1.html) Дедлайн: 13 окт. 2021 00:00
 - Домашнее задание 2
 - Домашнее задание 3
 
