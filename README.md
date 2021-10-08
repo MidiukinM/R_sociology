@@ -21,7 +21,24 @@ __!ВАЖНО:__ На WINDOWS устанавливать в корневую п�
 
 ## План курса
 
-### Раздел №1: Программирование 
+<details>
+  <summary>### Раздел №1: Прогаем без боли</summary>
+  
+_День №1__ Пишем первый скрипт, знакомимся с переменными, массивами и конструкцией if
+
+- [Семинар 1](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_01/introduction_to_R.html), [Задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_01/exercises.html), [Решения заданий](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_01/exercises_solution.html)
+- [Семинар 2](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_02/if.html), [Задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_02/exercises.html), [Решения заданий](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_02/exercises_solution.html)
+
+__День №2__ Нарешиваем задачи с предыдущего дня, знакомимся с циклами и матрицами
+
+- [Семинар 3-4](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_03/for_while_matrix.html), [Задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_03/exercises.html), [Решения заданий](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_03/exercises_solution.html)
+
+__День №3-4__ Нарешиваем задачи с предыдущего дня, пишем свои функции, готовимся к 1ой домашке
+
+- [Семинар 5-8](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_04/function.html), [Задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_04/exercises.html), [Решения заданий](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_04/exercises_solution.html)
+</details>
+
+### Раздел №1: Прогаем без боли
 
 __День №1__ Пишем первый скрипт, знакомимся с переменными, массивами и конструкцией if
 
