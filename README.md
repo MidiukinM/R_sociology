@@ -47,8 +47,8 @@ __День №3-4__ Нарешиваем задачи с предыдущего 
 
 __День №5-6__ Разбираемся, зачем мы учили тервер. Генерируем случайные величины в R
 
-- Огромная [презентация](https://github.com/MidiukinM/R_sociology/blob/main/day_05/preza.pdf) с материалами по терверу 
-- [Семинар 9-12](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_05/generations.html), [Задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_05/exercises.html)
+- Огромная [презентация](https://github.com/MidiukinM/R_sociology/blob/main/day_05_06/preza.pdf) с материалами по терверу 
+- [Семинар 9-12](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_05_06/generations.html), [Задания для отработки](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_05_06/exercises.html)
 
 __День №7__ Разбираемся в двух самых важных теоремах тервера: ЗБЧ и ЦПТ. Проверяем парадокс дней рождений на практике по данным из vk
 
