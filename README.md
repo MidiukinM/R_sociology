@@ -61,7 +61,12 @@ __День №7__ Разбираемся в двух самых важных т�
 <details>
   <summary> Click to expand </summary>
 
-__День №8__ Импорт и преобразование данных
+__День №8-11__ Основы работы с данными. Пакет dplyr и 6 магических функций.
+
+- [Семинар](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_09_10/intro_to_ds.html) по работе с данными
+- [Семинар](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_09_10/dplyr_main.html) по dplyr
+- [Задачи](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_09_10/exercises.html)
+- [Решения задач](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_09_10/exercises_solution.html)
 
 </details>
   
@@ -70,7 +75,8 @@ __День №8__ Импорт и преобразование данных
 __Домашки:__
 
 - [Домашнее задание 1](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/exercises/hw1/hw1.html) Дедлайн: 13 окт. 2021 00:00
-- Домашнее задание 2
+- [Решение домашки 1](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/exercises/hw1/hw1_sol.html)
+- [Домашнее задание 2](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/exercises/hw2/hw2.html) Дедлайн: 15 нояб. 2021 00:00
 - Домашнее задание 3
 
 __Контрольная и экзамен:__
