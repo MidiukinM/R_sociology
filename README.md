@@ -73,7 +73,30 @@ __День №11__ Материал для самостоятельного из
 - [Семинар](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_11/tidyr.html) про пакет tidyr 
   
 </details>
+
+__День №12__ Визуализация в ggplot. EDA - exploratory data analysis 
+
+- Семинар по визуализации 
+- Семинар по преобразованию данных (выбросы, пропуски, нормализация, категориальные переменные) 
+
+### Раздел №4: Грабим данные из интернета
+
+<details>
+  <summary> Click to expand </summary>
+
+Материал дополняется
   
+</details>
+
+### Раздел №5: Матстат - это почти-наверное нормально
+
+<details>
+  <summary> Click to expand </summary>
+
+Материал дополняется
+  
+</details>
+
 ## Домашние задания и контрольные
 
 __Домашки:__
