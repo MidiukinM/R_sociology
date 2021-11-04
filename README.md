@@ -61,13 +61,17 @@ __День №7__ Разбираемся в двух самых важных т�
 <details>
   <summary> Click to expand </summary>
 
-__День №8-11__ Основы работы с данными. Пакет dplyr и 6 магических функций.
+__День №8-10__ Основы работы с данными. Пакет dplyr и 6 магических функций.
 
 - [Семинар](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_09_10/intro_to_ds.html) по работе с данными
 - [Семинар](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_09_10/dplyr_main.html) по dplyr
 - [Задачи](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_09_10/exercises.html)
 - [Решения задач](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_09_10/exercises_solution.html)
 
+__День №11__ Материал для самостоятельного изучения. Соединения таблиц (джойн) и пакет tidyr с его 4 магическими функциями. 
+- [Семинар](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_11/dplyr_join.html) про соединения таблиц
+- [Семинар](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_11/tidyr.html) про пакет tidyr 
+  
 </details>
   
 ## Домашние задания и контрольные
