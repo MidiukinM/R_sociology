@@ -71,13 +71,12 @@ __День №8-10__ Основы работы с данными. Пакет dpl
 __День №11__ Материал для самостоятельного изучения. Соединения таблиц (джойн) и пакет tidyr с его 4 магическими функциями. 
 - [Семинар](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_11/dplyr_join.html) про соединения таблиц
 - [Семинар](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_11/tidyr.html) про пакет tidyr 
-  
-</details>
 
 __День №12__ Визуализация в ggplot. EDA - exploratory data analysis 
-
 - Семинар по визуализации 
 - Семинар по преобразованию данных (выбросы, пропуски, нормализация, категориальные переменные) 
+  
+</details>
 
 ### Раздел №4: Грабим данные из интернета
 
