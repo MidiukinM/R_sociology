@@ -1,0 +1,185 @@
+---
+title: "Визуализация. Игры."
+output: 
+  html_document:
+    toc: TRUE
+    toc_float: TRUE
+    toc_depth: 4
+    highlight: pygments
+editor_options: 
+  chunk_output_type: console
+---
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+```
+
+Установим и подгрузим пакеты.
+
+```{r}
+# install.packages('tidyr')
+# install.packages('dplyr')
+# install.packages('ggplot2')
+# install.packages('readr')
+library(tidyr)
+library(dplyr)
+library(ggplot2)
+library(readr)
+```
+
+А теперь подгрузим данные. 
+
+```{r}
+df <- read_csv('data/video_games_sales.csv')
+glimpse(df)
+```
+
+Видим, что некоторые колонки подгрузились не в том формате, что нам нужно. Колонки `Year_of_Release` и `User_Score` имеют формат _character_ (текстовый), в то время как по смыслу должны иметь формат _double_ (числовой). Изменим это: 
+
+```{r}
+df$Year_of_Release <- as.numeric(df$Year_of_Release) 
+df$User_Score <- as.numeric(df$User_Score) 
+```
+
+Теперь можем приступать к визуализации. Как обсуждалось на лекции, выбор графика зависит от типа признака, с которым вы работаете. Напомним, что все признаки делятся на **непрерывные** и **категориальные**. Далее рассмотрим примеры графиков для каждого из данных типов. 
+
+# Признаки по одному
+## Непрерывный признак
+
+#### Задача №1. 
+
+Посмотрите на динамику продаж игр в мире (`Global_Sales`) по годам.
+
+```{r}
+df %>% 
+  group_by(Year_of_Release) %>% 
+  summarise(Global_Sales = sum(Global_Sales)) %>% 
+  ggplot(aes(x=Year_of_Release, y=Global_Sales)) + geom_line()
+```
+
+#### Задача №2. 
+
+Постройте один график, на котором будут отображаться сразу все показатели продаж (`NA_Sales`, `EU_Sales`, `JP_Sales`, `Other_Sales`, `Global_Sales`)
+
+```{r}
+df %>% 
+  group_by(Year_of_Release) %>% 
+  summarise(Global_Sales = sum(Global_Sales),
+            NA_Sales = sum(NA_Sales),
+            EU_Sales = sum(EU_Sales),
+            JP_Sales = sum(JP_Sales), 
+            Other_Sales = sum(Other_Sales)) %>% 
+  gather(key='Sales_type', value='Sales', -Year_of_Release) %>% 
+  ggplot(aes(x=Year_of_Release, y=Sales, color=Sales_type)) + geom_line() + 
+  labs(title = 'Динамика продаж игр во времени', 
+       color = '',
+       x = '',
+       y = '')
+```
+
+Видим, что после 2000 года все резко начало меняться, давайте отметим эту линию на графике для наглядности: 
+
+```{r}
+df %>% 
+  group_by(Year_of_Release) %>% 
+  summarise(Global_Sales = sum(Global_Sales),
+            NA_Sales = sum(NA_Sales),
+            EU_Sales = sum(EU_Sales),
+            JP_Sales = sum(JP_Sales), 
+            Other_Sales = sum(Other_Sales)) %>% 
+  gather(key='Sales_type', value='Sales', -Year_of_Release) %>% 
+  ggplot(aes(x=Year_of_Release, y=Sales, color=Sales_type)) + geom_line() + 
+  geom_vline(xintercept=2000, color='black', linetype=2) + 
+  labs(title = 'Динамика продаж игр во времени', 
+       color = '',
+       x = '',
+       y = '')
+```
+
+## Категориальный признак
+
+#### Задача №3. 
+
+Сколько игр каждого жанра? 
+
+```{r}
+df %>% 
+  group_by(Genre) %>% 
+  summarise(Number_of_Games = n()) %>% 
+  ggplot(aes(x=Genre, y=Number_of_Games)) + geom_col() + 
+  theme(axis.text.x = element_text(angle = 90)) + 
+  labs(x='', y='', title='Кол-во игр по жанрам')
+```
+
+# Зависимости признаков
+## Непрерывный от непрерывного
+
+#### Задача №4. 
+
+Посмотрите на зависимость продаж (`Global_Sales`) от оценки критиков (`Critic_Score`). Сделайте тоже самое, но отдельно в жанрах Sports, Action и Racing. 
+
+```{r}
+df %>% 
+  ggplot(aes(x=Critic_Score, y=Global_Sales)) + geom_point()
+```
+
+Видим явный выброс, который чутка портит график. Построим без него. 
+
+```{r}
+df %>% 
+  filter(Global_Sales < 80) %>% 
+  ggplot(aes(x=Critic_Score, y=Global_Sales)) + geom_point()
+```
+
+Учитываем жанры: 
+
+```{r}
+df %>% 
+  filter(Genre %in% c('Sports', 'Action', 'Racing')) %>% 
+  filter(Global_Sales < 80) %>% 
+  ggplot(aes(x=Critic_Score, y=Global_Sales, color=Genre)) + geom_point(alpha=0.4)
+```
+
+## Непрерывный от категориального
+
+#### Задача №5. 
+
+Сравните оценки игр от критиков для топ-5 крупнейших игровых платформ (по кол-ву игр) с помощью boxplot.
+
+```{r}
+# Отбираем крупнейшие платформы
+df_platforms <- df %>% 
+        group_by(Platform) %>% 
+        summarise(Number_of_Games = n()) %>% 
+        arrange(desc(Number_of_Games)) %>% 
+        head(5)
+
+platforms <- df_platforms$Platform
+
+print(platforms)
+```
+
+```{r}
+# Строим график 
+df %>% 
+  filter(Platform %in% platforms) %>% 
+  ggplot(aes(x=User_Score, y=Platform)) + geom_boxplot()
+```
+
+Можем раскрасить :) 
+
+```{r}
+df %>% 
+  filter(Platform %in% platforms) %>% 
+  ggplot(aes(x=User_Score, y=Platform, color=Platform)) + geom_boxplot()
+```
+
+
+
+
+
+
+
+
+
+
