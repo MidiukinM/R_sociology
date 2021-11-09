@@ -72,9 +72,9 @@ __День №11__ Материал для самостоятельного из
 - [Семинар](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_11/dplyr_join.html) про соединения таблиц
 - [Семинар](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_11/tidyr.html) про пакет tidyr 
 
-__День №12__ Визуализация в ggplot. EDA - exploratory data analysis 
-- Семинар по визуализации 
-- Семинар по преобразованию данных (выбросы, пропуски, нормализация, категориальные переменные) 
+__День №12__ Визуализация в ggplot
+- [Семинар](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_12/games_visual.html) по визуализации. Анализируем продажи игр. 
+- [Огромный семинар](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/day_12/ggplot2.html) по возможностям ggplot. Используйте по желанию, как подсказку.
   
 </details>
 
