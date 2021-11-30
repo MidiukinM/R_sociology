@@ -75,7 +75,7 @@ __Домашки:__
 
 __Контрольная и экзамен:__
 
-- Контрольная работа
+- [Контрольная работа](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/exercises/test/test1.html)
 - Экзамен
 
 
