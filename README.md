@@ -118,6 +118,7 @@ __Правила:__
 __Контрольная и экзамен:__
 
 - [Контрольная работа](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/exercises/test/test1.html)
+- [Контрольная работа 182](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/exercises/test2/test2.html)
 - Экзамен
 
 
