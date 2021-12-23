@@ -83,7 +83,7 @@ __День №12__ Визуализация в ggplot
 <details>
   <summary> Click to expand </summary>
 
-Материал дополняется
+Смотреть [тут](https://ahmedushka7.github.io/R/) 
   
 </details>
 
@@ -92,7 +92,9 @@ __День №12__ Визуализация в ggplot
 <details>
   <summary> Click to expand </summary>
 
-Материал дополняется
+- [Задачи](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/CI/CI_tasks.html) по доверительным интервалам
+- [Задачи](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/CI/hypo_tasks.html) по проверке гипотез
+- [Бутстрап](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/CI/bootstrap.html)
   
 </details>
 
@@ -113,13 +115,13 @@ __Правила:__
 - [Домашнее задание 1](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/exercises/hw1/hw1.html) Дедлайн: 13 окт. 2021 00:00
 - [Решение домашки 1](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/exercises/hw1/hw1_sol.html)
 - [Домашнее задание 2](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/exercises/hw2/hw2.html) Дедлайн: 15 нояб. 2021 00:00
-- Домашнее задание 3
+- Домашнее задание 3 Дедлайн: 20 дек. 2021 00:00
 
 __Контрольная и экзамен:__
 
 - [Контрольная работа](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/exercises/test/test1.html)
 - [Контрольная работа 182](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/exercises/test2/test2.html)
-- Экзамен
+- [Экзамен](https://htmlpreview.github.io/?https://github.com/MidiukinM/R_sociology/blob/main/exercises/exam/exam.html)
 
 
 ## Формула оценивания
